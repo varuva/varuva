@@ -1,16 +1,16 @@
-## Hi there 👋
+# VARUVA 
 
-<!--
-**varuva/varuva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills ##
 
-Here are some ideas to get you started:
+Hola, soy Valentina Ruiz 👋
+Soy estudiante de Comunicación Visual en CENTRO, con interés en el diseño editorial y la construcción de narrativas visuales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo muy bien con las apps de Adobe (Illustrator, Photoshop, InDesign, etc.) y me gusta cuidar el concepto y los detalles en cada proyecto.
+
+Además del diseño, me apasiona el tejido y el crochet. Tengo mi propia marca llamada **varuva**, donde diseño y vendo prendas y accesorios hechos a mano.
+
+## Pasatiempos ##
+
+🎸 Amante del rock, especialmente de Red Hot Chili Peppers.
+
+🏙️ Disfruto caminar por la ciudad, conocer lugares nuevos y pasar tiempo con mis amigos y mi familia.
