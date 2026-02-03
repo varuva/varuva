@@ -7,7 +7,7 @@ Soy estudiante de Comunicación Visual en CENTRO, con interés en el diseño edi
 
 Trabajo muy bien con las apps de Adobe (Illustrator, Photoshop, InDesign, etc.) y me gusta cuidar el concepto y los detalles en cada proyecto.
 
-Además del diseño, me apasiona el tejido y el crochet. Tengo mi propia marca llamada **varuva**, donde diseño y vendo prendas y accesorios hechos a mano.
+Además del diseño, me apasiona el tejido y el crochet. Tengo mi propia marca llamada **varuva**, donde diseño y vendo prendas y accesorios hechos a mano. Visita este link para mas información [Instagram](https://www.instagram.com/_varuva_/)
 
 ## Pasatiempos ##
 
